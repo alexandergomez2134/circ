@@ -1,6 +1,6 @@
 section .data
 
-    author db "This circle function is brought to you by Bilal", 10, 0
+    author db "This circle function is brought to you by Alex", 10, 0
     inputPrompt db "Please enter the radius of a circle in whole number of meters: ", 0
     receivedNum db "The number %ld was received.", 10, 0
     output1 db "The circumference of a circle with this radius is %ld ", 0
